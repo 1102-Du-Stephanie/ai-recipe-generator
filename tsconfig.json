@@ -2,7 +2,6 @@
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" },
-    { "path": "./amplify_outputs.json" }
+    { "path": "./tsconfig.node.json" }
   ]
 }
